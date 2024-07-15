@@ -1,0 +1,15 @@
+{
+  "name": "TheFlightCrewBot",
+  "token": "insert bot token here",
+  "poll_interval": 3,
+  "chat_id" : "insert chat id here",
+
+  "score_threshold": 50,
+  "max_selected": 1,
+
+  "no_response_answer": "The crew has no answer to this question",
+
+  "cron_task_granularity_seconds": 60,
+  "connection_pool_size": 16
+}
+

@@ -1,0 +1,4 @@
+schedule
+fuzzywuzzy
+python-Levenshtein
+python-telegram-bot
